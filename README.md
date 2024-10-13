@@ -1,7 +1,4 @@
-# Regression-with-Variational-Quantum-Circuits-Higher-Dimention-
-This repository implements a **multidimensional regression model** using **Variational Quantum Circuits (VQCs)**, combining quantum neural networks with classical optimization techniques. It demonstrates how quantum circuits can approximate complex functions, with performance evaluated using 3D visualizations and R² metrics.
-
-# Multidimensional Regression with Variational Quantum Circuits (VQC)
+# Regression with Variational Quantum Circuits (VQC)
 
 ## Introduction
 
